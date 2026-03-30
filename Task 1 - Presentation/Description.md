@@ -1,1 +1,2 @@
-
+# Task-1: Digital Literacy Description #
+This infographic offers an overview of digital literacy and highlights its importance in today’s tech-focused world. It discusses key topics like safe online practices, protecting your digital identity, spotting phishing threats, and keeping your privacy secure on social media. The infographic also focuses on professional email communication and responsible online behavior. Overall, it seeks to raise awareness and encourage people to be smart and safe when using digital platforms.
