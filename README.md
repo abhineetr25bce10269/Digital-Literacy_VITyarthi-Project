@@ -39,3 +39,7 @@ task-3-platforms/ = Has the coding challenge for your computers, and a Google fo
 task-4-email-etiquette/ = Has email drafts, and the social media checklist.
 task-5-cybercrime/ = Has your case study on cyber crime, and a cyber crime prevention checklist and the reflections. 
 report/ = Final report for your project.
+
+# 💯 Digital Literacy Quiz 💯 #
+Link :-  https://docs.google.com/forms/d/e/1FAIpQLSdqiC8DnS7HTb43rmK4dcfGsHnGcSUkpigAPSc1M3C9k9OS7g/viewform?usp=dialog
+
